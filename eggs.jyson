@@ -1,0 +1,9 @@
+let eggs = 999;
+let boiledEggs;
+
+def cookEgg(int):
+    eggs = eggs - 1;
+    boiledEggs = boiledEggs + 1;
+    return
+
+cookEgg(99)
