@@ -1,9 +1,13 @@
+/# Variables?
 let eggs = 999;
 let boiledEggs;
 
+/# Functions?
 def cookEgg(int):
-    eggs = eggs - 1;
-    boiledEggs = boiledEggs + 1;
+    eggs = eggs - int;
+    boiledEggs = boiledEggs + int;
     return
 
 cookEgg(99)
+
+console.print("You have " + eggs + " eggs and" + boiledEggs + " boilded eggs")

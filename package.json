@@ -1,0 +1,18 @@
+{
+  "name": "jyson-",
+  "version": "1.0.0",
+  "description": "If Javascript and Python combined",
+  "main": "jyson.js",
+  "scripts": {
+    "test": "help me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MASTRIO/Jyson-"
+  },
+  "author": "MASTRIO",
+  "bugs": {
+    "url": "https://github.com/MASTRIO/Jyson-/issues"
+  },
+  "homepage": "https://github.com/MASTRIO/Jyson-#readme"
+}
